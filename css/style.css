@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
     --primary: #F3BD00;
-    --secondary: #757575;
+    --secondary: #404040;
     --light: #F3F6F8;
-    --dark: #0C2B4B;
+    --dark: #091f2c;
 }
 
 .py-6 {
@@ -165,8 +165,8 @@
 .carousel-control-next-icon {
     width: 3rem;
     height: 3rem;
-    background-color: var(--primary);
-    border: 10px solid var(--primary);
+    background-color: var(--dark);
+    border: 2px solid var(--primary);
 }
 
 @media (max-width: 768px) {
