@@ -350,3 +350,9 @@
 .copyright a:hover {
     color: var(--light);
 }
+
+/*** others ***/
+.eliakim {
+    background-color: #033E3E;
+    color: #FFFFFF;
+}
